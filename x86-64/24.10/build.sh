@@ -57,8 +57,11 @@ PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-app-ddns-go"
+PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 PACKAGES="$PACKAGES luci-app-openvpn-server"
+PACKAGES="$PACKAGES luci-i18n-openvpn-server-zh-cn"
 PACKAGES="$PACKAGES luci-app-zerotier"
+PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn"
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 # 静态文件服务器dufs(推荐)
